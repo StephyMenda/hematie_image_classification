@@ -1,2 +1,5 @@
 # hematie_image_classification
 L'objectif de ce projet est de développer et d'entraîner un modèle de réseau de neurones convolutifs (CNN) capable de différencier les hématies infectées par le paludisme de celles qui sont saines.
+
+
+Lien du dataset: https://ceb.nlm.nih.gov/repositories/malaria-datasets/
